@@ -3,3 +3,5 @@ name = input("Enter your name: ")
 
 # Print the input value
 print("Hello, " + name + "!")
+
+input("Enter to continue...")
